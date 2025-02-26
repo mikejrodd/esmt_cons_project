@@ -13,7 +13,7 @@ with st.sidebar:
         "Select an analysis to view:",
         [
             "View comparison of higher-level competitor groups",
-            "Compare Bayer to its cluster of similar competitors"
+            "Compare Bayer within its cluster of similar competitors"
         ],
         index=0
     )
