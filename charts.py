@@ -45,9 +45,9 @@ with st.sidebar:
     else:
         st.subheader("Select incubators to display")
         incubators = {
-            "Bayer Co.Lab": [5, 9, 9, 9, 9, 10, 9, 8],
-            "J Labs": [5, 8, 8, 7, 9, 10, 10, 8],
-            "BioMedX": [8, 10, 4, 3, 8, 9, 6, 7],
+            "Bayer Co.Lab": [5, 9, 9, 9, 9, 10, 9, 6],
+            "J Labs": [5, 8, 8, 7, 9, 10, 10, 7],
+            "BioMedX": [8, 10, 4, 3, 8, 9, 6, 8],
             "BaseLaunch": [9, 9, 8, 8, 10, 7, 7, 9],
             "BioLabs": [3, 6, 5, 5, 6, 10, 8, 9],
             "BioInnovation Inst.": [10, 7, 8, 8, 7, 9, 6, 8],
