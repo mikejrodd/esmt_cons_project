@@ -86,7 +86,6 @@ fig.update_layout(
     polar=dict(radialaxis=dict(visible=True, range=[0, 10])),
     showlegend=True,
     legend=dict(orientation="h", x=0.5, y=1.1, xanchor="center", yanchor="bottom"),
-    //title="Comparison Chart",
     width=1200,
     height=800,
     margin=dict(l=80, r=80, t=100, b=80)
