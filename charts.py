@@ -29,6 +29,7 @@ with st.sidebar:
             "Private Co-Working": {"Physical and Admin": 9, "Mentoring": 6, "Global Reach": 7, "Funding": 6, "Expertise": 6, "Local": 8},
             "Venture-Driven": {"Physical and Admin": 6, "Mentoring": 9, "Global Reach": 9, "Funding": 10, "Expertise": 8, "Local": 6},
             "Non-Profit Aggregators": {"Physical and Admin": 2, "Mentoring": 10, "Global Reach": 10, "Funding": 5, "Expertise": 8, "Local": 6},
+            "Bayer Co.Lab Berlin": {"Physical and Admin": 10, "Mentoring": 9, "Global Reach": 8, "Funding": 5, "Expertise": 8, "Local": 6},
         }
         
         all_clusters = list(cluster_data.keys())
