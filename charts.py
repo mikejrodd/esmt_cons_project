@@ -39,7 +39,7 @@ with st.sidebar:
             ### More Information  
             High-level competitor groups were created based on secondary research, clustered using K-Means and Semantic analysis of group notes and competitor website material.  
 
-            📄 **See our** [Competitor Clusters Document](https://docs.google.com/document/d/1-oHKxNdkiebwOsY7FGmFCQzZrLf8G1pDUBTlOwcM4cA/edit?usp=sharing) **for details on the original 30 competitors included.**
+            **See our** [Competitor Clusters Document](https://docs.google.com/document/d/1-oHKxNdkiebwOsY7FGmFCQzZrLf8G1pDUBTlOwcM4cA/edit?usp=sharing) **for details on the original 30 competitors included.**
         """)
 
     else:
@@ -60,7 +60,7 @@ with st.sidebar:
             ### More Information  
             Companies displayed are within the grouping of competitors similar to Bayer Co.Lab in existing value proposition.  
 
-            📄 **See our** [Final Close Competition Report](https://docs.google.com/document/d/1Hq2kWrcM_S5EvwDvBpE26Sr_NizTrHhqAgf0tBfFOV4/edit?usp=sharing) **for details on the companies displayed here and their likely stregths and weaknesses within the Wave 2 Value Proposition categories.**
+            **See our** [Final Close Competition Report](https://docs.google.com/document/d/1Hq2kWrcM_S5EvwDvBpE26Sr_NizTrHhqAgf0tBfFOV4/edit?usp=sharing) **for details on the companies displayed here and their likely stregths and weaknesses within the Wave 2 Value Proposition categories.**
         """)
 # Main chart area
 st.markdown("<div style='margin-left: 250px;'>", unsafe_allow_html=True)
