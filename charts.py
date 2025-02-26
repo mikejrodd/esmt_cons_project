@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 
 # Sidebar layout
 with st.sidebar:
-    st.title("Biotech Incubator Analysis")
+    st.title("Incubator/Accelerator Competitive Analysis")
     
     # Selector buttons for app view
     app_selection = st.radio(
